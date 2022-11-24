@@ -1,9 +1,7 @@
-# custom_shared_pointers
+# Smart Pointers
 My own implementation of all smart pointers in C++ according to the C++20 standard
 
 Краткий гайд к тому, какие задачи я выполнил, работая над этой задачей:
-
-# Smart Pointers
 
 ## Что за умные указатели такие?
 
